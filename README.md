@@ -33,3 +33,8 @@ AR:
     - https://jeromeetienne.github.io/AR.js/three.js/examples/multi-markers/markers-page/
     - https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg
     - https://www.makery.info/2017/10/17/integrer-la-realite-augmentee-sur-le-web-en-dix-lignes-de-code/amp/
+
+TEST APP:
+ - command : `npm start -- --port=2107`
+ - http://localhost:2107/index.html
+ - http://localhost:2107/vr/
